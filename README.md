@@ -25,9 +25,9 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **[VietDist Analytics](https://github.com/hoangvanhieu2004/VietDist-Analytics-Project-):** Building an end-to-end FMCG sales data pipeline (Python → PostgreSQL Medallion → Power BI 7-page dashboard).  
+- **[Facebook Ads Dashboard](https://github.com/hoangvanhieu2004/Faceboook-Ads-Dashboard-Claude-AI):** Turning daily Facebook Ads reports into an interactive HTML dashboard with Claude Code ([live demo](https://fbads-dashboard.vercel.app)).
+- **[Portfolio Website](https://github.com/hoangvanhieu2004/hoangvanhieuDBI.github.io):** Building my personal portfolio on GitHub Pages to showcase my data analytics projects.
 
 ## 🌱 Currently Learning 
 
