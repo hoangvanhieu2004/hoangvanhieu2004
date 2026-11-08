@@ -40,22 +40,22 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL%20(BigQuery%2C%20PostgreSQL)-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI%20(DAX%2C%20Power%20Query)-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/SQL%20(BigQuery%2C%20PostgreSQL)-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI%20(DAX%2C%20Power%20Query)-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python%20(pandas%2C%20NumPy%2C%20scikit--learn)-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/ETL%20%2F%20Data%20Pipeline-Intermediate-336791?style=flat" alt="ETL / Data Pipeline Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Modeling%20(Star%20Schema)-Advanced-6C5CE7?style=flat" alt="Data Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Python%20(pandas%2C%20NumPy%2C%20scikit--learn)-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/ETL%20%2F%20Data%20Pipeline-336791?style=flat" alt="ETL / Data Pipeline Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Modeling%20(Star%20Schema)-6C5CE7?style=flat" alt="Data Modeling Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/KPI%20Development-Advanced-96CEB4?style=flat" alt="KPI Development Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis%20%2F%20EDA-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-45B7D1?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning Skill Badge">
-  <img src="https://img.shields.io/badge/Dashboard%20Design-Advanced-FF6B6B?style=flat" alt="Dashboard Design Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis%20%2F%20EDA-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-45B7D1?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning Skill Badge">
+  <img src="https://img.shields.io/badge/Dashboard%20Design-FF6B6B?style=flat" alt="Dashboard Design Skill Badge">
 </p>
