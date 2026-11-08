@@ -31,8 +31,8 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Analytics Engineering: building reliable data pipelines and data quality testing with dbt and PostgreSQL.
+- AI-assisted analytics: using Claude Code to automate data cleaning, dashboard building and reporting.
 
 ## 🛠️ Technical Skillset
 
