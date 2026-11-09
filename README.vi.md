@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="README.md">🇬🇧 English</a> | 🇻🇳 <b>Tiếng Việt</b>
+  <a href="https://github.com/hoangvanhieu2004">🇬🇧 English</a> | 🇻🇳 <b>Tiếng Việt</b>
 </p>
 
 ## Xin chào, tôi là Hoàng Văn Hiếu 👋
