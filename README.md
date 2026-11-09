@@ -1,3 +1,7 @@
+<p align="right">
+  🇬🇧 <b>English</b> | <a href="README.vi.md">🇻🇳 Tiếng Việt</a>
+</p>
+
 ## Hi there, I'm Hoàng Văn Hiếu 👋
 
 <div align="center">
@@ -24,7 +28,7 @@ When I'm not working with data, I enjoy playing sports, traveling and walking. I
       
 ## 🔭 What I'm Currently Working On 
 
-- **[VietDist Analytics](https://github.com/hoangvanhieu2004/VietDist-Analytics-Project-):** Building an end-to-end FMCG sales data pipeline (Python → PostgreSQL Medallion → Power BI 7-page dashboard).  
+- **[VietDist Analytics](https://github.com/hoangvanhieu2004/VietDist-Analytics-Project):** Building an end-to-end FMCG sales data pipeline (Python → PostgreSQL Medallion → Power BI 7-page dashboard).  
 - **[Superstore Market Expansion](https://github.com/hoangvanhieu2004/Superstore-Market-Expansion-Product-Strategy-Analysis-Power-BI-Dashboard):** Analyzing global sales to recommend which markets and products to prioritize, with a 4-page Power BI dashboard on a star-schema model.
 - **[MoMo Topup Performance](https://github.com/hoangvanhieu2004/momo-topup-performance-analysis-2020-Power-BI):** Evaluating how to grow MoMo's Topup service profitably under rising cashback pressure, using a Power BI dashboard built around North Star metrics.
 
