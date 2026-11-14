@@ -21,7 +21,7 @@ I'm a recent graduate and aspiring Data Analyst who enjoys turning messy, real-w
 
 Through hands-on projects, I've practiced the full analytics workflow: cleaning and modeling data with SQL and Python, building Power BI dashboards around business questions, and defining the KPIs that matter. My work ranges from e-commerce and fintech analysis to an end-to-end FMCG data pipeline.
 
-When I'm not working with data, I enjoy playing sports, traveling and walking. I love the "aha!" moment when data reveals something new and useful, and I'm looking for my first Data Analyst role to keep learning and create real impact.
+When I'm not working with data, I enjoy playing sports, traveling and walking. I enjoy uncovering what is new and useful in data, and I'm looking for my first Data Analyst role to keep learning and create real impact.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://hoangvanhieu2004.github.io/hoangvanhieuDBI.github.io/)
