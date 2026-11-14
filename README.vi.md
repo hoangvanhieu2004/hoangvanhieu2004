@@ -18,7 +18,7 @@ Tôi là sinh viên mới tốt nghiệp, định hướng trở thành Data Ana
 
 Qua các dự án thực hành, tôi đã làm trọn quy trình phân tích: làm sạch và mô hình hóa dữ liệu bằng SQL và Python, xây dựng dashboard Power BI xoay quanh các câu hỏi kinh doanh, và xác định những KPI thực sự quan trọng. Các dự án của tôi trải dài từ phân tích thương mại điện tử, fintech cho đến một pipeline dữ liệu FMCG end-to-end.
 
-Ngoài công việc với dữ liệu, tôi thích chơi thể thao, du lịch và đi bộ. Tôi thích tìm ra những điều mới mẻ, hữu ích từ dữ liệu, và đang tìm kiếm vị trí Data Analyst đầu tiên để tiếp tục học hỏi và tạo ra giá trị thực tế.
+Ngoài công việc với dữ liệu, tôi thích chơi thể thao, du lịch và đi bộ. Tôi cũng thích tìm ra những điều mới mẻ, hữu ích từ dữ liệu, và đang tìm kiếm vị trí Data Analyst đầu tiên để tiếp tục học hỏi và tạo ra giá trị thực tế.
 
 ### [🏆 Xem Portfolio Website đầy đủ của tôi](https://hoangvanhieu2004.github.io/hoangvanhieuDBI.github.io/)
 
